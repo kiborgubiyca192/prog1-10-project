@@ -32,7 +32,8 @@ You can define which programs to test and how to test them in a config.json file
       "input": "input.txt"
     }
   ]
-}```
+}
+```
 
 # Requirements
 
