@@ -38,14 +38,3 @@ You can define which programs to test and how to test them in a config.json file
 ## Requirements
 
 **Python 3.8+**
-
-Any dependencies listed in requirements.txt
-
-# Contributing
-
-Contributions, bug reports, and feature requests are welcome!
-Please open an issue or submit a pull request.
-
-# License
-
-This project is licensed under the MIT License.
