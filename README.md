@@ -11,19 +11,20 @@
 
 ## Usage
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/yourusername/program-tester.git
 cd program-tester
+```
 
 # Run tests
-python tester.py --config config.json
+```bashpython tester.py --config config.json```
 
 # Configuration
 
 You can define which programs to test and how to test them in a config.json file. Example:
 
-{
+```bash {
   "tests": [
     {
       "name": "Example Program",
@@ -31,7 +32,7 @@ You can define which programs to test and how to test them in a config.json file
       "input": "input.txt"
     }
   ]
-}
+}```
 
 # Requirements
 
@@ -39,11 +40,11 @@ Python 3.8+
 
 Any dependencies listed in requirements.txt
 
-Contributing
+# Contributing
 
 Contributions, bug reports, and feature requests are welcome!
 Please open an issue or submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License.
