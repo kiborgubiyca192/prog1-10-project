@@ -9,18 +9,18 @@
 - 📊 Collect and compare performance metrics  
 - 🧾 Generate simple test reports  
 
-## Usage
+# Usage
 
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/yourusername/program-tester.git
 cd program-tester
 ```
 
-# Run tests
+## Run tests
 ```bashpython tester.py --config config.json```
 
-# Configuration
+## Configuration
 
 You can define which programs to test and how to test them in a config.json file. Example:
 
@@ -35,9 +35,9 @@ You can define which programs to test and how to test them in a config.json file
 }
 ```
 
-# Requirements
+## Requirements
 
-Python 3.8+
+**Python 3.8+**
 
 Any dependencies listed in requirements.txt
 
